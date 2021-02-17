@@ -39,7 +39,7 @@
 		- [¿Querés jugar un poco más con Gary?](#querés-jugar-un-poco-más-con-gary)
 ## Introducción
 ### Intención
-La intensión principal que tiene este documento (y el ejercicio, claro) es introducir al lector en el Paradigma de Programación Orientado a Objetos, pero de una forma distinta a la clásica.
+La intención principal que tiene este documento (y el ejercicio, claro) es introducir al lector en el Paradigma de Programación Orientado a Objetos, pero de una forma distinta a la clásica.
 En este caso, usaremos lenguajes púramente comerciales como Kotlin y Java. Nos apoyamos en ellos para evitar sufrir el impacto que genera el pasaje de un lenguaje de objetos puro, como Smalltalk, a uno más comercial y actual; así como también acostumbrarnos al uso de los IDEs, herramientas de gran ayuda a la hora de sentarnos a programar.
 Además, veremos de entrada un concepto muy importante de este paradigma: Interfaces.
 ### Forma y metodología
